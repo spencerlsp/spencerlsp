@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Spencer Li
 
-<!--
-**spencerlsp/spencerlsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+LLM Development Engineer, focusing on LLM application, RAG system and vector database.
+Skilled in building retrieval-augmented generation applications with Milvus & Python.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Language: Python
+- LLM & RAG: LangChain, LlamaIndex, Milvus
+- Tools: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Gmail: spencerli.lsp@gmail.com
+
